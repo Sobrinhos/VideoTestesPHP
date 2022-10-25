@@ -1,0 +1,11 @@
+{
+    "name": "youtube/testes-php",
+    "autoload": {
+        "psr-4": {
+            "Youtube\\TestesPhp\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
